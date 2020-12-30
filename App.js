@@ -26,6 +26,9 @@ import {
 import {InddorMap} from 'indoor-positioning-map';
 import RNIndoorManager from 'react-native-indoor-manager';
 
+
+
+
 const App = () => {
   window.loadOutdoor();
   return (
